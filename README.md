@@ -51,3 +51,12 @@ Please enter the number of customers：1000
  Expected number of occupied servers : 0.6319548711849414
 
 
+Test case 2:
+With following input condition:
+Please Select the service: 1.Banks 2.Packet switching router2
+Please enter the average packet per minute：2
+Please enter the average number of packet departed per minute：4
+Please enter the number of packets：1500
+![image](https://user-images.githubusercontent.com/93003662/146614108-0b9e0cbd-eab4-44e5-9658-7d601d76c6b6.png)
+
+
