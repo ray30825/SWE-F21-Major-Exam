@@ -51,33 +51,3 @@ Please enter the number of customers：1000
  Expected number of occupied servers : 0.6319548711849414
 
 
-![image](https://user-images.githubusercontent.com/93003662/146613484-0128d8f5-ffa9-48e8-816d-4f684f643e6b.png)
-
- Output: 
- Servers : 1 
- Time Between Arrivals :  0.5158490058490683 
- Service Time: (1/µ) 0.258171044418318 
- Utilization (c):  0.49925293261216064 
- Expected wait time in line (minute): 0.30189906666666666 
- Expected time spent on the system (minute): 0.5600696666666667 
- Expected number of customers in line (Lq): 0.5842929097839182 
- Expected number of clients in the system (Ls): 1.0835458423960789 
- Expected number of occupied servers : 0.49925293261216064
-
- ![image](https://user-images.githubusercontent.com/93003662/146612965-e669808c-3282-4253-b4d6-95be14ea06c8.png)
-
- Output: 
- Servers : 2
- Time Between Arrivals :  0.5158490058490683 
- Service Time: (1/µ) 0.258171044418318 
- Utilization (c):  0.23545164555896225 
- Expected wait time in line (minute): 0.020599866666666668 
- Expected time spent on the system (minute): 0.27877046666666666 
- Expected number of customers in line (Lq): 0.0690538266805398 
- Expected number of clients in the system (Ls): 0.5399571177984643 
- Expected number of occupied servers : 0.4709032911179245
-
-
-
-![image](https://user-images.githubusercontent.com/93003662/146612900-4427091c-b4f7-4847-9b9f-53be002f9a6d.png)
-
