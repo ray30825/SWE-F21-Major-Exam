@@ -17,7 +17,9 @@ Non-functional requirement:
 •	The system cannot hang with large input (e.g. 1000 customers)
 
 Software Testing:
+
 Test case 1:
+
 With following input condition
 Please Select the service: 1.Banks 2.Packet switching router:1
 Please enter the average customers per minute：1
@@ -52,11 +54,24 @@ Please enter the number of customers：1000
 
 
 Test case 2:
+
 With following input condition:
 Please Select the service: 1.Banks 2.Packet switching router2
 Please enter the average packet per minute：2
 Please enter the average number of packet departed per minute：4
 Please enter the number of packets：1500
 ![image](https://user-images.githubusercontent.com/93003662/146614108-0b9e0cbd-eab4-44e5-9658-7d601d76c6b6.png)
+
+Output: 
+ Servers : 1 
+ Time Between Arrivals :  0.5158490058490683 
+ Service Time: (1/µ) 0.258171044418318 
+ Utilization (c):  0.49925293261216064 
+ Expected wait time in line (minute): 0.30189906666666666 
+ Expected time spent on the system (minute): 0.5600696666666667 
+ Expected number of customers in line (Lq): 0.5842929097839182 
+ Expected number of clients in the system (Ls): 1.0835458423960789 
+ Expected number of occupied servers : 0.49925293261216064
+
 
 
