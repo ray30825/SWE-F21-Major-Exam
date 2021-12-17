@@ -26,14 +26,14 @@ Please enter the number of customers：1000
 
  ![image](https://user-images.githubusercontent.com/93003662/146613014-af1f75a7-3c1b-4582-bf02-2bcd9404b944.png)
  
-Output: 
- Servers : 1 
+ Output:
+ Servers : 1
  Time Between Arrivals :  1.003540208760709 
- Service Time: (1/µ) 0.7107006852820134 
- Utilization (c):  0.7075900086805407 
- Expected wait time in line (minute): 1.9202734000000001 
+ Service Time: (1/µ) 0.7107006852820134
+ Utilization (c):  0.7075900086805407
+ Expected wait time in line (minute): 1.9202734000000001
  Expected time spent on the system (minute): 2.6309737999999996 
- Expected number of customers in line (Lq): 1.913119671611941 
+ Expected number of customers in line (Lq): 1.913119671611941
  Expected number of clients in the system (Ls): 2.6207096802924816 
  Expected number of occupied servers : 0.7075900086805407
  
@@ -50,12 +50,7 @@ Output:
  Expected number of clients in the system (Ls): 0.836329724457701 
  Expected number of occupied servers : 0.6319548711849414
 
- Test case 2:
- With following input condition:
- Please Select the service: 1.Banks 2.Packet switching router2
- Please enter the average packet per minute：2
- Please enter the average number of packet departed per minute：4
- Please enter the number of packets：1500
+
 ![image](https://user-images.githubusercontent.com/93003662/146613484-0128d8f5-ffa9-48e8-816d-4f684f643e6b.png)
 
  Output: 
