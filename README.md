@@ -6,13 +6,15 @@ The system consists with 2 parts, (a) Banks with multiple tellers, and (b) Packe
 
 Use case diagram:
 ![image](https://user-images.githubusercontent.com/93003662/146612485-6c19d083-3929-4593-b83c-6d800441a2e2.png)
+
 Implementation:
 Functional requirement:
-•	The system should output both M/M/1 and M/M/2 simulation results
-•	The system will plot customers wait time in plot
+1. The system should output both M/M/1 and M/M/2 simulation results
+2. The system will plot customers wait time in plot
 
 Non-functional requirement:
-•	The system cannot hang with large input (e.g. 1000 customers)
+1. The system cannot hang with large input (e.g. 1000 customers)
+
 
 Software Testing:
 Test case 1:
@@ -33,6 +35,8 @@ Output:
  Expected number of customers in line (Lq): 1.913119671611941 
  Expected number of clients in the system (Ls): 2.6207096802924816 
  Expected number of occupied servers : 0.7075900086805407
+ ![image](https://user-images.githubusercontent.com/93003662/146613014-af1f75a7-3c1b-4582-bf02-2bcd9404b944.png)
+
 
  
 Output:  
@@ -45,6 +49,8 @@ Output:
  Expected number of customers in line (Lq): 0.2043748532727596 
  Expected number of clients in the system (Ls): 0.836329724457701 
  Expected number of occupied servers : 0.6319548711849414
+ ![image](https://user-images.githubusercontent.com/93003662/146612996-ca93b228-42e4-4e84-a248-cf13e48803b8.png)
+
 
 Test case 2:
 With following input condition:
@@ -63,7 +69,7 @@ Output:
  Expected number of customers in line (Lq): 0.5842929097839182 
  Expected number of clients in the system (Ls): 1.0835458423960789 
  Expected number of occupied servers : 0.49925293261216064
-![image](https://user-images.githubusercontent.com/93003662/146612514-414d9457-ac6e-4d18-ae2d-f4a2ada0789d.png)
+ ![image](https://user-images.githubusercontent.com/93003662/146612965-e669808c-3282-4253-b4d6-95be14ea06c8.png)
 
  
 Output: 
@@ -76,4 +82,5 @@ Output:
  Expected number of customers in line (Lq): 0.0690538266805398 
  Expected number of clients in the system (Ls): 0.5399571177984643 
  Expected number of occupied servers : 0.4709032911179245
-![image](https://user-images.githubusercontent.com/93003662/146612552-88ec4405-1195-4bd1-ac93-e89dc279611b.png)
+![image](https://user-images.githubusercontent.com/93003662/146612900-4427091c-b4f7-4847-9b9f-53be002f9a6d.png)
+
