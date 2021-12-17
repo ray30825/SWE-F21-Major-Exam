@@ -19,7 +19,6 @@ Non-functional requirement:
 Software Testing:
 
 Test case 1:
-
 With following input condition
 Please Select the service: 1.Banks 2.Packet switching router:1
 Please enter the average customers per minute：1
@@ -73,5 +72,16 @@ Output:
  Expected number of clients in the system (Ls): 1.0835458423960789 
  Expected number of occupied servers : 0.49925293261216064
 
+![image](https://user-images.githubusercontent.com/93003662/146614275-64738659-fe14-4a1d-aae2-5f91d57029e7.png)
+Output: 
+ Servers : 2
+ Time Between Arrivals :  0.5158490058490683 
+ Service Time: (1/µ) 0.258171044418318 
+ Utilization (c):  0.23545164555896225 
+ Expected wait time in line (minute): 0.020599866666666668 
+ Expected time spent on the system (minute): 0.27877046666666666 
+ Expected number of customers in line (Lq): 0.0690538266805398 
+ Expected number of clients in the system (Ls): 0.5399571177984643 
+ Expected number of occupied servers : 0.4709032911179245
 
 
